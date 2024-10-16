@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rotating-cube/static/css/main.0a719740.css",
+    "main.js": "/rotating-cube/static/js/main.9ab24841.js",
+    "index.html": "/rotating-cube/index.html",
+    "main.0a719740.css.map": "/rotating-cube/static/css/main.0a719740.css.map",
+    "main.9ab24841.js.map": "/rotating-cube/static/js/main.9ab24841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a719740.css",
+    "static/js/main.9ab24841.js"
+  ]
+}
